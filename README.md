@@ -36,6 +36,3 @@ In this project I used a servo motor to open the lit of a cereal box whenever th
 **Breadboard**
 
 ![](/media/auto_box_opener_breadboard.PNG)
-
-**Actual circuit**
-![](/media/auto_box_opener_real_circuit.jpg)
