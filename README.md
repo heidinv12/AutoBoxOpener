@@ -4,7 +4,7 @@ In this project I used a servo motor to open the lit of a cereal box whenever th
 
 **Demo**
 
-
+https://www.youtube.com/watch?v=b2M02hWphGU
 
 # How to install
 
