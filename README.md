@@ -1,6 +1,6 @@
 # Summary
 
-In this project I used a servo motor to open the lit of a cereal box whenever the scoop is removed from its holder. To accomplish this, I used a ultrasonic distance sensor that points to the location of the scoop, whenever there is a difference in distance, the servo will respond and open the lit.
+In this project I used a servo motor to open the lit of a cereal box whenever the scoop is removed from its holder. To accomplish this, I used an ultrasonic distance sensor that points to the location of the scoop, whenever there is a difference in distance, the servo will respond and open the lit.
 
 **Demo**
 
