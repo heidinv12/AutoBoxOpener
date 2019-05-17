@@ -31,8 +31,8 @@ https://www.youtube.com/watch?v=b2M02hWphGU
 
 **Schematic**
 
-![](/media/auto_box_opener_schematic.PNG)
+![](/media/room_monioring_sys_schematic.PNG)
 
 **Breadboard**
 
-![](/media/auto_box_opener_breadboard.PNG)
+![](/media/room_monioring_sys_breadboard.PNG)
